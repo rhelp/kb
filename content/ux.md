@@ -1,40 +1,57 @@
-[[Computer Science]]
-# Front-end Frameworks
-#frontend #react #svelte #htmx
-[Svelte](https://svelte.dev/)
-[Next.js](https://nextjs.org/)
-[htmx](https://htmx.org/)
-# CSS Frameworks
+---
+title: UX
+---
+
+### Front-end frameworks
+- [Svelte](https://svelte.dev/) #svelte
+- [Next.js](https://nextjs.org/) #nextjs #react
+- [htmx](https://htmx.org/) #htmx
+  
+#frontend
+
+### CSS frameworks
+- [Tailwind](https://tailwindcss.com/) #tailwind #css
+- [Bootstrap](https://getbootstrap.com/) #bootstrap #css
+  
 #css
-[Tailwind](https://tailwindcss.com/)
-[Bootstrap](https://getbootstrap.com/)
-# Components
+
+### Component libraries
+- [TanStack](https://tanstack.com/)
+- [daisyUI](https://daisyui.com/)
+- [shadcn/ui](https://ui.shadcn.com/)
+- [Aceternity UI](https://ui.aceternity.com/)
+- [Flowbite](https://flowbite.com/)
+  
 #components
-[TanStack](https://tanstack.com/)
-[daisyUI](https://daisyui.com/)
-[shadcn/ui](https://ui.shadcn.com/)
-[Aceternity UI](https://ui.aceternity.com/)
-[Flowbite](https://flowbite.com/)
-# Animation
+
+### Animation libraries
+- [Anime.js](https://animejs.com/)
+   
 #animation
-[Anime.js](https://animejs.com/)
-# Icon Libraries
+
+### Icon libraries
+- [Heroicons](https://heroicons.com/)
+- [Feather Icons](https://feathericons.com/)
+- [Flowbite Icons](https://flowbite.com/icons/)
+  
 #icons
-[Heroicons](https://heroicons.com/)
-[Feather Icons](https://feathericons.com/)
-[Flowbite Icons](https://flowbite.com/icons/)
-# Design Systems
-#ux #mui
-[DRUIDS by Datadog](https://druids.datadoghq.com/)
-# Tools
-[Rive](https://rive.app/)
-[Storybook](https://storybook.js.org/)
-[Figma](https://www.figma.com/files/recent?fuid=1154252597920599658)
-[Penpot](https://penpot.app/)
-[webflow](https://webflow.com/)
-[LottieFiles](https://lottiefiles.com/)
-# References
-[UI Design Daily](https://www.uidesigndaily.com/)
-[Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/) #css
-[CSS Reference](https://cssreference.io/) #css
-[gh/dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) #frontend 
+
+### Design systems
+- [Material UI](https://mui.com/material-ui/) #mui
+- [DRUIDS by Datadog](https://druids.datadoghq.com/)
+
+#ux #design
+
+### Tools
+- [Rive](https://rive.app/)
+- [Storybook](https://storybook.js.org/)
+- [Figma](https://www.figma.com/files/recent?fuid=1154252597920599658)
+- [Penpot](https://penpot.app/)
+- [webflow](https://webflow.com/)
+- [LottieFiles](https://lottiefiles.com/)
+
+### References
+- [UI Design Daily](https://www.uidesigndaily.com/)
+- [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/) #css
+- [CSS Reference](https://cssreference.io/) #css
+- [gh/dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) #frontend 
