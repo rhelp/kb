@@ -1,5 +1,12 @@
 ---
-title: UX
+title: Front-end web development
+---
+Front-end web development is the development of the graphical user interface of
+a website through the use of HTML, CSS, and JavaScript so users can view and
+interact with that website.
+
+[Read more about Front-end web development on Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)
+
 ---
 
 ### Front-end frameworks
