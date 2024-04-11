@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This website serves as a knowledge base and [digital garden][dg].
+
+[dg]: https://en.wikipedia.org/wiki/Personal_knowledge_base
