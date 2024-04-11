@@ -2,6 +2,12 @@
 title: Front-end web development
 tags:
     - frontend
+    - ux
+    - design
+    - components
+    - css
+    - icons
+    - animation
 ---
 Front-end web development is the development of the graphical user interface of
 a website through the use of HTML, CSS, and JavaScript so users can view and
@@ -50,8 +56,6 @@ A design system is a collection of reusable components and clear standards that 
 
 Browse more examples of design systems [here](https://designsystemsrepo.com/design-systems/)
 
-#ux #design
-
 ### Component libraries
 - [Material UI](https://mui.com/material-ui/) #mui
 - [TanStack](https://tanstack.com/)
@@ -60,26 +64,18 @@ Browse more examples of design systems [here](https://designsystemsrepo.com/desi
 - [Aceternity UI](https://ui.aceternity.com/)
 - [Flowbite](https://flowbite.com/)
 - [Semantic UI](https://semantic-ui.com/)
-  
-#components
 
 ### CSS frameworks
 - [Tailwind](https://tailwindcss.com/) #tailwind #css
 - [Bootstrap](https://getbootstrap.com/) #bootstrap #css
-  
-#css
 
 ### Icon libraries
 - [Heroicons](https://heroicons.com/)
 - [Feather Icons](https://feathericons.com/)
 - [Flowbite Icons](https://flowbite.com/icons/)
-  
-#icons
 
 ### Animation libraries
 - [Anime.js](https://animejs.com/)
-   
-#animation
 
 ### Tools
 - [Figma](https://www.figma.com/) A powerful, collaborative design tool for teams.
